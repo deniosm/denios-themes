@@ -1,0 +1,26 @@
+denios-themes (1.0.4) testing; urgency=medium
+
+  * Fix names Gtk themes
+
+ -- Denis Maslo <denios-linux@proton.me>  Sat, 28 Jan 2023 19:32:55 +0100
+
+denios-themes (1.0.3) testing; urgency=medium
+
+  * Add missing icons
+  * Fix menu
+
+ -- Denis Maslo <denios-linux@proton.me>  Sat, 28 Jan 2023 17:00:55 +0100
+
+denios-themes (1.0.2) testing; urgency=medium
+
+  * Add breeze icons to default
+  * Add gtk themes
+
+ -- Denis Maslo <denios-linux@proton.me>  Fri, 27 Jan 2023 20:27:35 +0100
+
+denios-themes (1.0.1) testing; urgency=medium
+
+  * Initial Version.
+  * Initial Release.
+
+ -- Denis Maslo <denios-linux@proton.me>  Fri, 20 Jan 2023 02:46:55 +0100

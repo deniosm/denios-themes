@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Denios-Default-Dark
+Comment=Denios default dark theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Denios-Default-Dark
+MetacityTheme=Denios-Default-Dark
+IconTheme=Denios-blue
+CursorTheme=Breeze
+CursorSize=24

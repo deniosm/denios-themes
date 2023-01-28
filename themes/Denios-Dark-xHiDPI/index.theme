@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Denios-Dark-xHiDPI
+Type=X-GNOME-Metatheme
+Comment=Denios-Dark-xHiDPI theme
+Encoding=UTF-8
+
+
+X-GNOME-Metatheme]
+Name=Denios-Dark-xHiDPI
+Type=X-GNOME-Metatheme
+Comment=Denios-Dark-xHiDPI theme
+GtkTheme=Denios-Dark-xHiDPI
+MetacityTheme=Denios-Dark-xHiDPI
+IconTheme=Denios-blue
+CursorTheme=Breeze
+ButtonLayout=menu:minimize,maximize,close

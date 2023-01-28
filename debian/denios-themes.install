@@ -1,0 +1,8 @@
+themes usr/share/
+icons/denios-logo.svg usr/share/icons/
+icons/denios-logo.png usr/share/icons/
+
+icons usr/icons/
+icons/Denios-blue/* usr/share/icons/Denios-blue
+icons/Denios-dark/* usr/share/icons/Denios-dark
+icons/Denios-light/* usr/share/icons/Denios-light

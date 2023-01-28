@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Flat-Remix-GTK-denios-Light
+Comment=Flat-Remix-GTK-denios-Light theme"
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Flat-Remix-GTK-denios-Light
+MetacityTheme=Flat-Remix-Light-Metacity
+IconTheme=Flat-Remix-denios-Light
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
